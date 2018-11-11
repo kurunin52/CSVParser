@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVParser", "CSVParser\CSVParser.csproj", "{316D9C72-CB98-4B7C-A950-19BFD191E637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316D9C72-CB98-4B7C-A950-19BFD191E637}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{316D9C72-CB98-4B7C-A950-19BFD191E637}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{316D9C72-CB98-4B7C-A950-19BFD191E637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316D9C72-CB98-4B7C-A950-19BFD191E637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548BE3BD-8EB4-410F-B0D2-58447F3F3A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548BE3BD-8EB4-410F-B0D2-58447F3F3A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548BE3BD-8EB4-410F-B0D2-58447F3F3A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548BE3BD-8EB4-410F-B0D2-58447F3F3A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AF55F78-3907-4DDC-BD0C-E9C3768EB5A8}
+	EndGlobalSection
+EndGlobal
